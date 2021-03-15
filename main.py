@@ -67,3 +67,8 @@ def is_consecutive(a_list):
     print(status)
 
 is_consecutive([1,2,3,4,5])
+
+def welcome(marvel_character):
+    print(f'welcome to {marvel_character} vision')
+
+welcome('wanda')
